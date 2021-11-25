@@ -3,6 +3,7 @@ import sqlite3
 from PyQt5 import uic
 from PyQt5.QtWidgets import QWidget, QTableWidgetItem
 
+
 NAME_DATABASE = "coffee.sqlite"
 
 
